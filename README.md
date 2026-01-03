@@ -8,7 +8,7 @@
 Unlike traditional text-to-SQL tools, SQL-Genie behaves like a **self-correcting data analyst** that understands schemas, fixes its own mistakes, and visualizes results intelligently.
 
 ---
-
+![Project Demo](sql_genie.gif)
 
 ## 🧠 Why SQL-Genie?
 
