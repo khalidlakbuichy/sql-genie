@@ -10,9 +10,6 @@ Unlike traditional text-to-SQL tools, SQL-Genie behaves like a **self-correcting
 ---
 
 
-https://github.com/user-attachments/assets/cacf7944-003c-4d31-aaa6-7c63ed4282ad
-
-
 ## 🧠 Why SQL-Genie?
 
 Most LLM tools stop at generating SQL.
